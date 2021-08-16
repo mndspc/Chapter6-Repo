@@ -1,6 +1,4 @@
 ﻿using System;
-
-
 namespace FunctionsAndExceptionHandling
 {
     //  This program shows how to use recursive function.
