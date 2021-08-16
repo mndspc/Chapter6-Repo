@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>FunctionsAndExceptionHandling.ExcepDemo</StartupObject>
+    <StartupObject>FunctionsAndExceptionHandling.WorkWithUSerDefinedTypes</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -66,6 +66,8 @@
       <DependentUpon>Settings1.settings</DependentUpon>
     </Compile>
     <Compile Include="SettingsDemo.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="WorkWithUSerDefinedTypes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

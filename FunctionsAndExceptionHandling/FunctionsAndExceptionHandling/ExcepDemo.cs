@@ -6,7 +6,6 @@ namespace FunctionsAndExceptionHandling
     //  This program demo. how to handle exceptions.
     class ExcepDemo
     {
-     
         static void Main()
         {          
            MyMath myMath = new MyMath();
