@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter6-Repo\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\bin\Debug\FunctionsAndExceptionHandling.exe.config
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter6-Repo\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\bin\Debug\FunctionsAndExceptionHandling.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter6-Repo\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\bin\Debug\FunctionsAndExceptionHandling.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter6-Repo\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\obj\Debug\FunctionsAndExceptionHandling.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter6-Repo\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\obj\Debug\FunctionsAndExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter6-Repo\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\obj\Debug\FunctionsAndExceptionHandling.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter6-Repo\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\obj\Debug\FunctionsAndExceptionHandling.pdb
